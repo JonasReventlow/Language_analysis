@@ -1,0 +1,75 @@
+KVANTITATIV UNDERSØGELSE AF TEKSTERNE FIT_POS.TXT OG FIT_NEG.TXT
+
+FREKVENSER for: FIT_NEG.TXT MED FREKVENS MIN:25
+270 jeg
+213 ikke
+58 mig
+56 
+52 fitness
+45 world
+38 hold
+37 dårlig
+31 min
+28 ingen
+27 corona
+27 kundeservice
+27 service
+
+
+FREKVENSER for: FIT_POS.TXT MED FREKVENS MIN:25
+131 jeg
+61 fitness
+57 gode
+50 world
+49 center
+41 personale
+38 hold
+36 dejligt
+35 super
+34 træne
+33 sted
+33 
+28 tilfreds
+28 instruktører
+27 fw
+27 rent
+
+
+NEDENSTÅENDE ER BIGRAM FREKVENSER FOR TEKSTFILERNE
+
+BIGRAM FREKVENSER FOR: FIT_NEG.TXT MED FREKVENS MIN:8
+44 fitness, world
+27 jeg, ikke
+12 dårlig, rengøring
+11 meldt, mig
+8 dårlig, service
+
+
+BIGRAM FREKVENSER FOR: FIT_POS.TXT MED FREKVENS MIN:8
+49 fitness, world
+14 dejligt, sted
+11 dejligt, center
+11 jeg, elsker
+10 gode, instruktører
+
+
+ORD SOM OPTRÆDER I BEGGE FILER (FÆLLESMÆNGDEN) OG HVOR ORDETS FREKVENS I BEGGE FILER ER MIN: 5
+ rent fitnessworld holdtræning plads world covid-19 center min hold træner hele medarbejder mig fået fw jeg ikke jeres medlemskab tid fitness personalet kundeservice tak træne maskiner siden centre service jer derfor medlem personale 5 rengøring centret abonnement 
+
+GENNEMSNITLIG SÆTNINGSLÆNGDE I fit_neg.txt: 12.081471747700395
+
+
+GENNEMSNITLIG SÆTNINGSLÆNGDE I fit_pos.txt: 9.176684881602915
+
+
+ORD SOM OPTRÆDER I FIT_NEG.TXT HVOR ORDETS FREKVENS ER MIN: 5 - MENS ORDET IKKE ER I FIT_NEG.TXT
+
+
+ORD SOM OPTRÆDER I FIT_NEG.TXT HVOR ORDETS FREKVENS ER MIN: 5 - MENS ORDET IKKE ER I FIT_NEG.TXT
+
+
+ORD SOM OPTRÆDER I FIT_NEG.TXT HVOR ORDETS FREKVENS ER MIN: 5 - MENS ORDET IKKE ER I FIT_POS.TXT
+dårlig kr venteliste dårligt meldt 1 betalt bruge beskidt maskine personer regning stå vide stykke åbenbart 2020 intet time melde hjemmeside okt 99kr stykker toiletterne gebyr snydt sgu bøde resten året koster meldte kampagne svigter beskidte elendig sko virker tilmeldt vælger lukke konto kontakt brugt 20 99 kr./md faktisk sker bemanding fikset skriver små lange personligt 
+
+ORD SOM OPTRÆDER I FIT_POS.TXT HVOR ORDETS FREKVENS ER MIN: 5 - MENS ORDET IKKE ER I FIT_NEG.TXT
+elsker bedste ros smilende fantastisk masser søde rart stemning udvalg dygtige professionel glæder faciliteter herfra sødt atmosfære flinke og… kompetent forskellige træningscenter fremragende træningsfaciliteter behov hjælpsomme fantastiske vende 

@@ -1,0 +1,68 @@
+KVANTITATIV UNDERSØGELSE AF TEKSTERNE FIT_POS.TXT OG FIT_NEG.TXT
+
+
+GENNEMSNITLIG SÆTNINGSLÆNGDE I FIT_POS.TXT: 9.37
+
+
+FREKVENSER for: FIT_POS.TXT MED FREKVENS MIN:25
+131 jeg
+61 fitness
+57 gode
+50 world
+49 center
+41 personale
+38 hold
+36 dejligt
+35 super
+34 træne
+33 sted
+33 
+28 tilfreds
+28 instruktører
+27 fw
+27 rent
+
+
+BIGRAM FREKVENSER FOR FIT_POS.TXT MED FREKVENS MIN:8
+49 ('fitness', 'world')
+14 ('dejligt', 'sted')
+11 ('dejligt', 'center')
+11 ('jeg', 'elsker')
+10 ('gode', 'instruktører')
+
+
+GENNEMSNITLIG SÆTNINGSLÆNGDE I FIT_NEG.TXT: 12.8
+
+
+FREKVENSER for: FIT_NEG.TXT MED FREKVENS MIN: 25
+270 jeg
+213 ikke
+58 mig
+56 
+52 fitness
+45 world
+38 hold
+37 dårlig
+31 min
+28 ingen
+27 corona
+27 kundeservice
+27 service
+
+
+BIGRAM FREKVENSER FOR FIT_NEG.TXT MED FREKVENS MIN: 8
+44 ('fitness', 'world')
+27 ('jeg', 'ikke')
+12 ('dårlig', 'rengøring')
+11 ('meldt', 'mig')
+8 ('dårlig', 'service')
+
+
+ORD SOM OPTRÆDER I BEGGE FILER (FÆLLESMÆNGDEN) OG HVOR ORDETS FREKVENS I BEGGE FILER ER MIN: 5
+abonnement personalet ikke træne fitness 5 jeres hele centre plads personale mig medlem covid-19 rengøring derfor kundeservice world træner tak siden holdtræning medarbejder hold rent fået jer tid maskiner fw medlemskab jeg centret center min service fitnessworld
+
+ORD SOM OPTRÆDER I FIT_POS.TXT HVOR ORDETS FREKVENS ER MIN: 5 - MENS ORDET IKKE ER I FIT_NEG.TXT
+sødt søde fremragende hjælpsomme ros vende kompetent masser smilende udvalg og… træningscenter atmosfære rart dygtige glæder behov herfra faciliteter flinke elsker fantastisk bedste professionel stemning træningsfaciliteter forskellige fantastiske
+
+ORD SOM OPTRÆDER I FIT_NEG.TXT HVOR ORDETS FREKVENS ER MIN: 5 - MENS ORDET IKKE ER I FIT_POS.TXT
+intet 2020 okt kr./md meldte sko konto hjemmeside koster virker betalt kampagne lange bøde vide 99kr dårlig toiletterne personer elendig dårligt stykker beskidte bemanding tilmeldt sker 20 regning året beskidt sgu åbenbart meldt snydt stykke faktisk time bruge lukke fikset kr melde små stå vælger resten 1 personligt brugt maskine svigter skriver kontakt venteliste gebyr 99
